@@ -2,10 +2,12 @@
 <img src="https://avatars.githubusercontent.com/u/92965887?s=400&u=732c6cb7537549284f8ae18ad3e0d1d95353fce5&v=4" width="40" height="40" />
 
 
-### HI I'M VARUN NARAYANAN 
+# HI, I'M VARUN NARAYANAN 
 
 
-Likes :fire: Python, :fire:Django, :fire:Django rest, :fire: Rest API  
+### :white_heart: Likes :fire: Python, :fire:Django, :fire:Django rest 
+
+### :thought_balloon: Talks about  Rest API, REACT.js, GRAPHQL, JSON
 
 ***
 
