@@ -1,16 +1,54 @@
-### Hi there 👋
 
-<!--
-**Varunmnx/Varunmnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://avatars.githubusercontent.com/u/92965887?s=400&u=732c6cb7537549284f8ae18ad3e0d1d95353fce5&v=4" width="40" height="40" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Django,python
-- 🌱 I’m currently learning ...Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### HI I'M VARUN NARAYANAN 
+
+
+Likes :fire: Python, :fire:Django, :fire:Django rest, :fire: Rest API  
+
+***
+
+```
+its only been a while since i started programming i really hope to start engaging in much advanced projects soon  
+```
+
+
+
+
+
+<div id = "header" align="center">
+
+   [![Varunmnx's github stats](https://github-readme-stats.vercel.app/api?username=Varunmnx&show_icons=true&theme=default)](https://github.com/Varunmnx/)   
+	
+</div>   
+
+***
+	
+</div>	
+	
+Im currently building my DS and algo skills :kissing_heart: do check it out im updating and showcasing it  [touch me :grin: ](https://github.com/Varunmnx/Datastructuresusingpython)  
+
+***
+
+
+
+<div id = "header" align="center" >
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunmnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+***
+	
+<div id = "header" align="left" >
+   <img src="https://www.lifewire.com/thmb/kY04NHgKXey7C14obMVU4vKJKWY=/5056x3286/filters:fill(auto,1)/GettyImages-470121814-5b202f3c3037130036185ca6.jpg" height="100" width="200" >
+	 </div>
+	 
+	 
+	 
+[Twitter 🐦](https://twitter.com/Varun_Narayana1)	 
+
+[LinkedIn 💼](https://www.linkedin.com/in/varun-narayanan-74b653193/)
+
+[Email 📬](mailto:varun.cheriyath@gmail.com)
