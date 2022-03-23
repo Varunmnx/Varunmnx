@@ -83,10 +83,14 @@ Im currently building my DS and algo skills :kissing_heart: do check it out im u
 
 
 ***
+
+
+***
 	  
 <div id = "header" align="center" >
-   <img src="https://www.lifewire.com/thmb/kY04NHgKXey7C14obMVU4vKJKWY=/5056x3286/filters:fill(auto,1)/GettyImages-470121814-5b202f3c3037130036185ca6.jpg" height="100" width="200" >
-	 </div>	  
+<!--    <img src="https://www.lifewire.com/thmb/kY04NHgKXey7C14obMVU4vKJKWY=/5056x3286/filters:fill(auto,1)/GettyImages-470121814-5b202f3c3037130036185ca6.jpg" height="100" width="200" > -->
+	
+<img src="https://media.giphy.com/media/Ke3CM1NVkULWo/giphy.gif" width="50%" height="50%"/>
 	 
 	 
 [Twitter 🐦](https://twitter.com/Varun_Narayana1)	 
@@ -94,3 +98,7 @@ Im currently building my DS and algo skills :kissing_heart: do check it out im u
 [LinkedIn 💼](https://www.linkedin.com/in/varun-narayanan-74b653193/)
 
 [Email 📬](mailto:varun.cheriyath@gmail.com)
+	
+	
+	
+</div>	
