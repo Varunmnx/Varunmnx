@@ -16,7 +16,7 @@ Build🛠️ Develop🧑‍💻  Ship🚢
 ![](https://github-profile-trophy.vercel.app/?username=Varunmnx&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://images3.memedroid.com/images/UPLOADED923/60a30a0ac182c.jpeg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Varunmnx&icon=0&color=4)](https://visitcount.itsvg.in)
