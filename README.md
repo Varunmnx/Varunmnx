@@ -1,104 +1,28 @@
-<!-- 
-<img src="https://avatars.githubusercontent.com/u/92965887?s=400&u=732c6cb7537549284f8ae18ad3e0d1d95353fce5&v=4" width="40" height="40" />
+# 💫 About Me:
+Build🛠️ Develop🧑‍💻  Ship🚢
 
 
-# HI, I'M VARUN NARAYANAN 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/wJTahGvc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/varun_mnx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-narayanan-74b653193/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/Varun_Narayana1) 
 
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Varunmnx&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Varunmnx&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunmnx&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### :white_heart: Likes :fire: Python, :fire:Django, :fire:Django rest 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Varunmnx&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
-### :thought_balloon: Talks about  Rest API, REACT.js, GRAPHQL, JSON
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-***
+---
+[![](https://visitcount.itsvg.in/api?id=Varunmnx&icon=0&color=4)](https://visitcount.itsvg.in)
 
-```
-its only been a while since i started programming i really hope to start engaging in much advanced projects soon  
-```
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/varuncheri8) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/VarunNarayanan?country.x=IN&locale.x=en_GB) 
 
-
-
-
-
-
-
-<div id = "header" align="center">
-
-   [![Varunmnx's github stats](https://github-readme-stats.vercel.app/api?username=Varunmnx&show_icons=true&theme=default)](https://github.com/Varunmnx/)   
-	
-</div>   
-
-***
-	
-</div>	
-	
-Im currently building my DS and algo skills :kissing_heart: do check it out im updating and showcasing it  [touch me :grin: ](https://github.com/Varunmnx/Datastructuresusingpython)  
-
-***
-
-
-
-<div id = "header" align="center" >
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunmnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-***
-	
-<div id = "header" align="left" >
-   <img src="https://www.lifewire.com/thmb/kY04NHgKXey7C14obMVU4vKJKWY=/5056x3286/filters:fill(auto,1)/GettyImages-470121814-5b202f3c3037130036185ca6.jpg" height="100" width="200" >
-	 </div>
-	  -->
-	  
-	  
-![Metrics](https://metrics.lecoq.io/Varunmnx?template=classic&isocalendar=1&stars=1&isocalendar.duration=half-year&stars.limit=4&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
-
-
-***
-
-# HI, I'M VARUN NARAYANAN 
-
-
-### :white_heart: Likes :fire: Python, :fire:Django, :fire:Django rest 
-
-### :thought_balloon: Talks about  Rest API, REACT.js, GRAPHQL, JSON
-
-
-***
-
-<div id = "header" align="center">
-
-   [![Varunmnx's github stats](https://github-readme-stats.vercel.app/api?username=Varunmnx&show_icons=true&theme=default)](https://github.com/Varunmnx/)   
-	
-</div>   
-
-
-***
-
-<div id = "header" align="center" >
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunmnx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-
-***
-
-
-***
-	  
-<div id = "header" align="center" >
-<!--    <img src="https://www.lifewire.com/thmb/kY04NHgKXey7C14obMVU4vKJKWY=/5056x3286/filters:fill(auto,1)/GettyImages-470121814-5b202f3c3037130036185ca6.jpg" height="100" width="200" > -->
-	
-<img src="https://media.giphy.com/media/Ke3CM1NVkULWo/giphy.gif" width="50%" height="50%"/>
-	 
-	 
-[Twitter 🐦](https://twitter.com/Varun_Narayana1)	 
-
-[LinkedIn 💼](https://www.linkedin.com/in/varun-narayanan-74b653193/)
-
-[Email 📬](mailto:varun.cheriyath@gmail.com)
-	
-	
-	
-</div>	
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
